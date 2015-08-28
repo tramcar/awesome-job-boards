@@ -2,19 +2,19 @@
 
 ## Remote
 
-https://www.wfh.io
+* https://www.wfh.io
 
 ## Programming
 
 ### Go
 
-http://www.golangprojects.com
-http://www.welovegolang.com
+* http://www.golangprojects.com
+* http://www.welovegolang.com
 
 ### Meteor
 
-http://www.weworkmeteor.com
+* http://www.weworkmeteor.com
 
 ## Design
 
-https://dribbble.com/jobs
+* https://dribbble.com/jobs
