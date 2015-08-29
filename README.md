@@ -38,7 +38,7 @@
 
 ### Ruby
 
-& http://jobs.rubynow.com
+* http://jobs.rubynow.com
 
 ### Rust
 
