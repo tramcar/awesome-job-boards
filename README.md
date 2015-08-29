@@ -36,6 +36,10 @@
 * http://www.golangprojects.com
 * http://www.welovegolang.com
 
+### Laravel
+
+* https://larajobs.com
+
 ### Meteor
 
 * http://www.weworkmeteor.com
