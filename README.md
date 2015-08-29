@@ -25,6 +25,11 @@
 
 * https://growthhackers.com/jobs
 
+## JavaScript
+
+* http://angularjobs.com
+* http://www.weloveangular.com
+
 ## Programming
 
 ### Elixir
@@ -36,13 +41,14 @@
 * http://www.golangprojects.com
 * http://www.welovegolang.com
 
-### Laravel
-
-* https://larajobs.com
-
 ### Meteor
 
 * http://www.weworkmeteor.com
+
+### PHP
+
+* https://larajobs.com
+* http://www.phpjobs.com
 
 ### Python
 
