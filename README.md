@@ -4,6 +4,19 @@
 
 * https://www.wfh.io
 
+## Big Data
+
+* https://datajobs.com
+* http://jobs.mongodb.org
+
+## Cloud
+
+* https://www.stackjobs.io
+
+## Design
+
+* https://dribbble.com/jobs
+
 ## Programming
 
 ### Elixir
@@ -19,15 +32,14 @@
 
 * http://www.weworkmeteor.com
 
-## Design
+### Python
 
-* https://dribbble.com/jobs
+* https://www.python.org/jobs
 
-## Big Data
+### Ruby
 
-* https://datajobs.com
-* http://jobs.mongodb.org
+& http://jobs.rubynow.com
 
-## Cloud
+### Rust
 
-* https://www.stackjobs.io
+* http://rust-jobs.com
