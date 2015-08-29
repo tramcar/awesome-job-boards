@@ -1,6 +1,6 @@
 # Niche Job Boards
 
-Help us create an extensive list of niche job boards.  Please create a pull request to add a board or an issue to discuss the removal of an existing job board.  Thank you!
+Help us create an extensive list of niche job boards.  Please create a pull request to add a job board or create an issue to discuss the removal of an existing job board.  Thank you!
 
 ## Remote
 
