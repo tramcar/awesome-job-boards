@@ -9,6 +9,7 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 ### Aggregator
 
 * https://remoteok.io
+* https://goremote.io
 
 ## Big Data
 
