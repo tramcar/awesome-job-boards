@@ -49,6 +49,10 @@ A curated list of awesome niche job boards.
 
 * http://jobs.elixirdose.com
 
+### Erlang
+
+* https://erlangcentral.org/jobs
+
 ### Functional
 
 * http://functionaljobs.com/
