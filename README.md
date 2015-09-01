@@ -32,12 +32,6 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 
 * https://growthhackers.com/jobs
 
-## JavaScript
-
-* http://angularjobs.com
-* http://jobs.emberjs.com
-* http://www.weloveangular.com
-
 ## Programming
 
 ### Elixir
@@ -53,13 +47,16 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 * http://www.golangprojects.com
 * http://www.welovegolang.com
 
-### Meteor
+## JavaScript
 
+* http://angularjobs.com
+* http://jobs.emberjs.com
+* http://www.weloveangular.com
 * http://www.weworkmeteor.com
 
 ### Perl
 
-* https://jobs.perl.org/
+* https://jobs.perl.org
 
 ### PHP
 
@@ -69,6 +66,7 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 ### Python
 
 * https://www.python.org/jobs
+* https://www.djangojobs.net/jobs/
 
 ### Ruby
 
