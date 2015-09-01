@@ -58,7 +58,7 @@ A curated list of awesome niche job boards.
 * http://www.golangprojects.com
 * http://www.welovegolang.com
 
-## JavaScript
+### JavaScript
 
 * http://angularjobs.com
 * http://jobs.emberjs.com
