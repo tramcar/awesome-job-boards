@@ -56,6 +56,10 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 
 * http://www.weworkmeteor.com
 
+### Perl
+
+* https://jobs.perl.org/
+
 ### PHP
 
 * https://larajobs.com
