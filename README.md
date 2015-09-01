@@ -43,6 +43,10 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 
 * http://jobs.elixirdose.com
 
+### Functional
+
+* http://functionaljobs.com/
+
 ### Go
 
 * http://www.golangprojects.com
