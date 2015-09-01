@@ -35,6 +35,7 @@ Help us create an extensive list of niche job boards.  Please create a pull requ
 ## JavaScript
 
 * http://angularjobs.com
+* http://jobs.emberjs.com
 * http://www.weloveangular.com
 
 ## Programming
