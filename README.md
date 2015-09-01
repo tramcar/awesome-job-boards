@@ -1,6 +1,7 @@
-# Niche Job Boards
+Awesome Job Boards
+==================
 
-Help us create an extensive list of niche job boards.  Please create a pull request to add a job board or create an issue to discuss the removal of an existing job board.  Thank you!
+A curated list of awesome job boards.
 
 ## Remote
 
