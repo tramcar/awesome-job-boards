@@ -75,9 +75,11 @@ A curated list of awesome niche job boards.
 
 ### PHP
 
-* https://larajobs.com
-* http://www.phpjobs.com
 * [Drupal Jobs](https://jobs.drupal.org/)
+* [jobs.wordpress.net](http://jobs.wordpress.net/)
+* [LaraJobs](https://larajobs.com/)
+* [PHP Jobs](http://www.phpjobs.com/)
+* [WPhired](http://www.wphired.com/about/)
 
 ### Python
 
