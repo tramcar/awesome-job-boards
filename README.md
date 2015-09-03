@@ -15,63 +15,63 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* https://www.wfh.io
+* [WFH.io](https://www.wfh.io)
 
 ### Aggregator
 
-* https://remoteok.io
-* https://goremote.io
+* [GoRemote](https://remoteok.io/)
+* [remote | OK](https://remoteok.io/)
 
 ## Big Data
 
-* https://datajobs.com
-* http://jobs.mongodb.org
+* [DataJobs.com](https://datajobs.com/)
+* [MongoDB](http://jobs.mongodb.org/)
 
 ## Cloud
 
-* https://www.stackjobs.io
+* [StackJobs](https://www.stackjobs.io/)
 
 ## Customer Support
 
-* http://jobs.supportops.co
+* [Support Ops Job Board](http://jobs.supportops.co/)
 
 ## Design
 
-* https://dribbble.com/jobs
+* [Jobs for Designers](https://dribbble.com/jobs)
 
 ## Growth Hacking
 
-* https://growthhackers.com/jobs
+* [GrowthHackers](https://growthhackers.com/jobs)
 
 ## Programming
 
 ### Elixir
 
-* http://jobs.elixirdose.com
+* [Elixir Jobs](http://jobs.elixirdose.com/)
 
 ### Erlang
 
-* https://erlangcentral.org/jobs
+* [ErlangCentral](https://erlangcentral.org/jobs)
 
 ### Functional
 
-* http://functionaljobs.com/
+* [Functional Jobs](http://functionaljobs.com/)
 
 ### Go
 
-* http://www.golangprojects.com
-* http://www.welovegolang.com
+* [Golang / Go Jobs & Developers](http://www.golangprojects.com/)
+* [we love golang](http://www.welovegolang.com/)
 
 ### JavaScript
 
-* http://angularjobs.com
-* http://jobs.emberjs.com
-* http://www.weloveangular.com
-* http://www.weworkmeteor.com
+* [Angular Jobs](http://angularjobs.com/)
+* [Ember Job Board](http://jobs.emberjs.com/)
+* [We Love Angular](http://www.weloveangular.com/)
+* [We Work Meteor](http://www.weworkmeteor.com/)
 
 ### Perl
 
-* https://jobs.perl.org
+* [The Perl Job Site](https://jobs.perl.org/)
 
 ### PHP
 
@@ -83,13 +83,13 @@ A curated list of awesome niche job boards.
 
 ### Python
 
-* https://www.python.org/jobs
-* https://www.djangojobs.net/jobs/
+* [Python Job Board](https://www.python.org/jobs/)
+* [Django Jobs](https://www.djangojobs.net/jobs/)
 
 ### Ruby
 
-* http://jobs.rubynow.com
+* [RubyNow](http://jobs.rubynow.com/)
 
 ### Rust
 
-* http://rust-jobs.com
+* [Rust Programming Language Jobs](http://rust-jobs.com/)   
