@@ -15,11 +15,10 @@ A curated list of awesome niche job boards.
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [MongoDB](http://jobs.mongodb.org/)
 
 ## Cloud
 
-* [StackJobs](https://www.stackjobs.io/)
+* [StackJobs](https://www.stackjobs.io/) - OpenStack Jobs
 
 ## Customer Support
 
@@ -86,7 +85,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* [WFH.io](https://www.wfh.io)
+* [WFH.io](https://www.wfh.io) - Digital and Tech Remote Jobs
 
 ### Aggregator
 
