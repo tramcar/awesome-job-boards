@@ -18,7 +18,7 @@ A curated list of awesome niche job boards.
 
 ## Cloud
 
-* [StackJobs](https://www.stackjobs.io/) - OpenStack Jobs
+* [StackJobs](https://www.stackjobs.io/) - OpenStack jobs
 
 ## Customer Support
 
@@ -44,7 +44,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [Functional Jobs](http://functionaljobs.com/)
+* [Functional Jobs](http://functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -68,7 +68,7 @@ A curated list of awesome niche job boards.
 * [jobs.wordpress.net](http://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [PHP Jobs](http://www.phpjobs.com/)
-* [WPhired](http://www.wphired.com/about/)
+* [WPhired](http://www.wphired.com/about/) - WordPress jobs
 
 ### Python
 
@@ -85,7 +85,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* [WFH.io](https://www.wfh.io) - Digital and Tech Remote Jobs
+* [WFH.io](https://www.wfh.io) - Digital and tech remote jobs
 
 ### Aggregator
 
