@@ -12,15 +12,6 @@ A curated list of awesome niche job boards.
 - [Growth Hacking](#growth-hacking)
 - [Programming](#programming)
 
-## Remote
-
-* [WFH.io](https://www.wfh.io)
-
-### Aggregator
-
-* [GoRemote](https://remoteok.io/)
-* [remote | OK](https://remoteok.io/)
-
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
@@ -84,6 +75,15 @@ A curated list of awesome niche job boards.
 
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://www.djangojobs.net/jobs/)
+
+## Remote
+
+* [WFH.io](https://www.wfh.io)
+
+### Aggregator
+
+* [GoRemote](https://remoteok.io/)
+* [remote | OK](https://remoteok.io/)
 
 ### Ruby
 
