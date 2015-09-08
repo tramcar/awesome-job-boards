@@ -1,7 +1,5 @@
 # Contribution Guidelines
 
-## Adding to this list
-
 Hi there!  We welcome changes to this document, but please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
