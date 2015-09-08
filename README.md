@@ -4,13 +4,13 @@ A curated list of awesome niche job boards.
 
 ## Table of Contents
 
-- [Remote](#remote)
 - [Big Data](#big-data)
 - [Cloud](#cloud)
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [Growth Hacking](#growth-hacking)
 - [Programming](#programming)
+- [Remote](#remote)
 
 ## Big Data
 
@@ -76,6 +76,14 @@ A curated list of awesome niche job boards.
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://www.djangojobs.net/jobs/)
 
+### Ruby
+
+* [RubyNow](http://jobs.rubynow.com/)
+
+### Rust
+
+* [Rust Programming Language Jobs](http://rust-jobs.com/)
+
 ## Remote
 
 * [WFH.io](https://www.wfh.io)
@@ -84,11 +92,3 @@ A curated list of awesome niche job boards.
 
 * [GoRemote](https://remoteok.io/)
 * [remote | OK](https://remoteok.io/)
-
-### Ruby
-
-* [RubyNow](http://jobs.rubynow.com/)
-
-### Rust
-
-* [Rust Programming Language Jobs](http://rust-jobs.com/)   
