@@ -28,6 +28,10 @@ A curated list of awesome niche job boards.
 
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [UX Jobs Board](https://www.uxjobsboard.com)
+* [AIGA](http://designjobs.aiga.org/)
+* [IXDA](http://www.ixda.org/page/job-board)
+* [Krop](http://www.krop.com/creative-jobs/)
+* [Coroflot](http://www.coroflot.com/jobs)
 
 ## Growth Hacking
 
