@@ -32,7 +32,6 @@ A curated list of awesome niche job boards.
 * [IXDA](http://www.ixda.org/page/job-board)
 * [Krop](http://www.krop.com/creative-jobs/)
 * [Coroflot](http://www.coroflot.com/jobs)
-* [Authentic Jobs](https://authenticjobs.com/)
 
 ## Growth Hacking
 
