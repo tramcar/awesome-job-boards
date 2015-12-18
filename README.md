@@ -49,7 +49,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [Functional Jobs](http://functionaljobs.com/) - Job board for functional programmers
+* [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -94,5 +94,5 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
-* [GoRemote](https://remoteok.io/)
+* [GoRemote](https://goremote.io/)
 * [remote | OK](https://remoteok.io/)
