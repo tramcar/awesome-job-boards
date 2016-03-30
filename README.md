@@ -47,6 +47,10 @@ A curated list of awesome niche job boards.
 
 * [ErlangCentral](https://erlangcentral.org/jobs)
 
+### Front-End
+
+* [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
+
 ### Functional
 
 * [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
