@@ -61,7 +61,7 @@ A curated list of awesome niche job boards.
 * [Angular Jobs](http://angularjobs.com/)
 * [Ember Job Board](http://jobs.emberjs.com/)
 * [We Love Angular](http://www.weloveangular.com/)
-* [We Work Meteor](http://www.weworkmeteor.com/)
+* [We Work Meteor](https://www.weworkmeteor.com/)
 
 ### Perl
 
