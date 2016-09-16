@@ -45,7 +45,7 @@ A curated list of awesome niche job boards.
 
 ### Erlang
 
-* [ErlangCentral](https://erlangcentral.org/jobs)
+* [ErlangCentral](http://beta.erlangcentral.org/jobs)
 
 ### Front-End
 
@@ -86,7 +86,7 @@ A curated list of awesome niche job boards.
 
 ### Ruby
 
-* [RubyNow](http://jobs.rubynow.com/)
+* [RubyNow](https://jobs.rubynow.com/)
 
 ### Rust
 
