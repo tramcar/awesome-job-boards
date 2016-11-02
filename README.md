@@ -28,7 +28,7 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](http://designjobs.aiga.org/)
-* [IXDA](http://www.ixda.org/page/job-board)
+* [IXDA](http://ixda.org/jobs/)
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](http://www.coroflot.com/jobs)
 * [Jobs for Designers](https://dribbble.com/jobs)
@@ -103,6 +103,10 @@ A curated list of awesome niche job boards.
 
 * [GoRemote](https://goremote.io/)
 * [remote | OK](https://remoteok.io/)
+
+## Startups
+
+* [BetaList Jobs](https://betalist.com/jobs) - Early-stage startup jobs
 
 ## Tech
 
