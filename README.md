@@ -23,7 +23,7 @@ A curated list of awesome niche job boards.
 
 ## Customer Support
 
-* [Support Ops Job Board](http://jobs.supportops.co/)
+* [Support Driven Jobs](http://jobs.supportdriven.com/)
 
 ## Design
 
