@@ -34,6 +34,7 @@ A curated list of awesome niche job boards.
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](http://www.krop.com/creative-jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
+* [Design Inc.](https://www.designinc.com)
 
 ## Growth Hacking
 
