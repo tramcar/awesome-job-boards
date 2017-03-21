@@ -33,6 +33,7 @@ A curated list of awesome niche job boards.
 * [Coroflot](http://www.coroflot.com/design-jobs)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](http://www.krop.com/creative-jobs/)
+* [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Design Inc.](https://www.designinc.com)
 
