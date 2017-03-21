@@ -115,3 +115,7 @@ A curated list of awesome niche job boards.
 ### Europe
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
+
+### Free & Open Source
+
+* [Free & Open Source Jobs](https://www.fossjobs.net/)
