@@ -106,6 +106,7 @@ A curated list of awesome niche job boards.
 
 * [GoRemote](https://goremote.io/)
 * [remote | OK](https://remoteok.io/)
+* [whoishiring.io](https://whoishiring.io/)
 
 ## Startups
 
