@@ -49,7 +49,7 @@ A curated list of awesome niche job boards.
 
 ### Erlang
 
-* [ErlangCentral](http://beta.erlangcentral.org/jobs)
+* [ErlangCentral](https://beta.erlangcentral.org/jobs)
 
 ### Front-End
 
