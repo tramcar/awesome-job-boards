@@ -36,6 +36,7 @@ A curated list of awesome niche job boards.
 * [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Design Inc.](https://www.designinc.com)
+* [Open Source Design](http://opensourcedesign.net/jobs/)
 
 ## Growth Hacking
 
@@ -125,3 +126,4 @@ A curated list of awesome niche job boards.
 ### Free & Open Source
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [Open Source Design](http://opensourcedesign.net/jobs/)
