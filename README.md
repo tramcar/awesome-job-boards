@@ -9,6 +9,7 @@ A curated list of awesome niche job boards.
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [Growth Hacking](#growth-hacking)
+- [InfoSec](#infosec)
 - [Programming](#programming)
 - [Remote](#remote)
 - [Tech](#tech)
@@ -40,6 +41,10 @@ A curated list of awesome niche job boards.
 ## Growth Hacking
 
 * [GrowthHackers](https://growthhackers.com/jobs)
+
+## InfoSec
+
+* [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 
 ## Programming
 
@@ -80,7 +85,7 @@ A curated list of awesome niche job boards.
 ### PHP
 
 * [Drupal Jobs](https://jobs.drupal.org/)
-* [jobs.wordpress.net](http://jobs.wordpress.net/)
+* [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [PHP Jobs](http://www.phpjobs.com/)
 * [WPhired](http://www.wphired.com/about/) - WordPress jobs
