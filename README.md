@@ -38,6 +38,10 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Design Inc.](https://www.designinc.com)
 
+## Gaming
+
+* [Orca](https://orcahq.com/jobs) - Game industry jobs
+
 ## Growth Hacking
 
 * [GrowthHackers](https://growthhackers.com/jobs)
