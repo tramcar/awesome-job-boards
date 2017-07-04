@@ -8,6 +8,7 @@ A curated list of awesome niche job boards.
 - [Cloud](#cloud)
 - [Customer Support](#customer-support)
 - [Design](#design)
+- [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
 - [Programming](#programming)
