@@ -5,7 +5,6 @@ A curated list of awesome niche job boards.
 ## Table of Contents
 
 - [Big Data](#big-data)
-- [Cloud](#cloud)
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [Gaming](#gaming)
@@ -19,10 +18,6 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 
-## Cloud
-
-* [StackJobs](https://www.stackjobs.io/) - OpenStack jobs
-
 ## Customer Support
 
 * [Support Driven Jobs](http://jobs.supportdriven.com/)
@@ -30,9 +25,10 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](http://designjobs.aiga.org/)
-* [IXDA](http://ixda.org/jobs/)
+* [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](http://www.coroflot.com/design-jobs)
+* [IXDA](http://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
