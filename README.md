@@ -125,6 +125,10 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
+### Canada
+
+* [corridor.tw](https://corridor.tw) - Toronto-Waterloo Region Corridor Jobs
+
 ### Europe
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
