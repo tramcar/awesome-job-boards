@@ -38,7 +38,7 @@ A curated list of awesome niche job boards.
 
 ## DevOps
 
-* [Jobs For DevOps](https://www.jobsfordevops.com)
+* [Jobs For DevOps](https://jobsfordevops.com)
 
 ## Gaming
 
