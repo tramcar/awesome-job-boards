@@ -19,6 +19,10 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 
+## Blockchain
+
+* [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
+
 ## Customer Support
 
 * [Support Driven Jobs](http://jobs.supportdriven.com/)
@@ -72,7 +76,7 @@ A curated list of awesome niche job boards.
 
 ### Go
 
-* [Golang / Go Jobs & Developers](http://www.golangprojects.com/)
+* [Golang / Go Jobs & Developers](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 
 ### JavaScript
@@ -93,7 +97,6 @@ A curated list of awesome niche job boards.
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [PHP Jobs](http://www.phpjobs.com/)
 * [WPhired](http://www.wphired.com/about/) - WordPress jobs
 
 ### Python
