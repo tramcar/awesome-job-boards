@@ -22,6 +22,7 @@ A curated list of awesome niche job boards.
 
 ## Blockchain
 
+* [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 
 ## Customer Support
