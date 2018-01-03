@@ -39,7 +39,6 @@ A curated list of awesome niche job boards.
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
-* [Design Inc.](https://www.designinc.com)
 
 ## DevOps
 
@@ -61,7 +60,7 @@ A curated list of awesome niche job boards.
 
 ### Elixir
 
-* [Elixir Jobs](http://jobs.elixirdose.com/)
+* [Elixir Jobs](https://elixir.career/)
 
 ### Erlang
 
