@@ -31,7 +31,7 @@ A curated list of awesome niche job boards.
 
 ## Design
 
-* [AIGA](http://designjobs.aiga.org/)
+* [AIGA](https://designjobs.aiga.org/)
 * [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](http://www.coroflot.com/design-jobs)
