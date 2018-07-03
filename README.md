@@ -116,7 +116,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* [WFH.io](https://www.wfh.io) - Digital and tech remote jobs
+* [We Work Remotely](https://weworkremotely.com/)
 
 ### Aggregator
 
