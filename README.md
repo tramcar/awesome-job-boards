@@ -34,7 +34,7 @@ A curated list of awesome niche job boards.
 * [AIGA](https://designjobs.aiga.org/)
 * [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
-* [Coroflot](http://www.coroflot.com/design-jobs)
+* [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](http://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
@@ -99,7 +99,7 @@ A curated list of awesome niche job boards.
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [WPhired](http://www.wphired.com/about/) - WordPress jobs
+* [WPhired](https://www.wphired.com/) - WordPress Jobs
 
 ### Python
 
@@ -116,7 +116,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* [WFH.io](https://www.wfh.io) - Digital and tech remote jobs
+* [We Work Remotely](https://weworkremotely.com/)
 
 ### Aggregator
 
@@ -126,7 +126,7 @@ A curated list of awesome niche job boards.
 
 ## Startups
 
-* [BetaList Jobs](https://betalist.com/jobs) - Early-stage startup jobs
+* [Startup Jobs](https://startup.jobs/)
 
 ## Tech
 
