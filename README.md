@@ -126,6 +126,10 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
+### Australia
+
+* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
+
 ### Canada
 
 * [Tramcar](https://tramcar.ca) - Toronto-Waterloo Region Corridor Jobs
@@ -137,10 +141,6 @@ A curated list of awesome niche job boards.
 ### United States
 
 * [DallasJobs](http://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
-
-### Australia
-
-* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
 
 ### Free & Open Source
 
