@@ -142,6 +142,10 @@ A curated list of awesome niche job boards.
 
 * [DallasJobs](http://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
 
+### Australia
+
+* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
+
 ### Free & Open Source
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
