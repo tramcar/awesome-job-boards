@@ -63,10 +63,6 @@ A curated list of awesome niche job boards.
 
 * [Elixir Jobs](https://elixir.career/)
 
-### Erlang
-
-* [ErlangCentral](https://beta.erlangcentral.org/jobs)
-
 ### Front-End
 
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
