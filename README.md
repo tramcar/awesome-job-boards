@@ -76,6 +76,7 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Cafe](https://golang.cafe)
 
 ### JavaScript
 
