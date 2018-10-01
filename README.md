@@ -110,6 +110,10 @@ A curated list of awesome niche job boards.
 
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
+### WebAssembly
+
+* [WebAssembly Jobs](https://webassemblyjobs.com/)
+
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
