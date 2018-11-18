@@ -145,3 +145,7 @@ A curated list of awesome niche job boards.
 ### Free & Open Source
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
+
+## Tech Jobs with verified relocation packages
+
+* [Relocate.me](https://relocate.me/)
