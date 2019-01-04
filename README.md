@@ -38,16 +38,12 @@ A curated list of awesome niche job boards.
 * [IXDA](http://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
-* [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
+* [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
-
-## Gaming
-
-* [Orca](https://orcahq.com/jobs) - Game industry jobs
 
 ## Growth Hacking
 
@@ -81,7 +77,7 @@ A curated list of awesome niche job boards.
 
 * [Angular Jobs](http://angularjobs.com/)
 * [Angular Work](https://angular.work/)
-* [Ember Job Board](http://jobs.emberjs.com/)
+* [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
@@ -100,7 +96,7 @@ A curated list of awesome niche job boards.
 ### Python
 
 * [Python Job Board](https://www.python.org/jobs/)
-* [Django Jobs](https://www.djangojobs.net/jobs/)
+* [Django Jobs](https://djangojobs.net/jobs/)
 
 ### Ruby
 
@@ -120,7 +116,6 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
-* [GoRemote](https://goremote.io/)
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 
@@ -144,7 +139,7 @@ A curated list of awesome niche job boards.
 
 ### United States
 
-* [DallasJobs](http://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
+* [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
 
 ### Free & Open Source
 
