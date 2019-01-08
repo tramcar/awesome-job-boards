@@ -137,6 +137,7 @@ A curated list of awesome niche job boards.
 ### Europe
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
+* [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & it world
 
 ### United States
 
