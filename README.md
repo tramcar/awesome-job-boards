@@ -132,12 +132,12 @@ A curated list of awesome niche job boards.
 
 ### Canada
 
-* [Tramcar](https://tramcar.ca) - Toronto-Waterloo Region Corridor Jobs
+* [Work in Tech](https://www.workintech.ca/) - Toronto-Waterloo Region Corridor Jobs
 
 ### Europe
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
-* [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & it world
+* [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 
 ### United States
 
