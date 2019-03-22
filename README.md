@@ -12,6 +12,7 @@ A curated list of awesome niche job boards.
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
+- [Machine Learning](#machine-learning)
 - [Programming](#programming)
 - [Remote](#remote)
 - [Tech](#tech)
@@ -52,6 +53,10 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
+
+## Machine Learning
+
+* [ML Jobs List](https://mljobslist.com) - Machine Learning Jobs List is the machine learning community to find and post jobs! 
 
 ## Programming
 
