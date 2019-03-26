@@ -56,7 +56,7 @@ A curated list of awesome niche job boards.
 
 ## Machine Learning
 
-* [ML Jobs List](https://mljobslist.com) - Machine Learning Jobs List is the machine learning community to find and post jobs! 
+* [ML Jobs List](https://mljobslist.com/jobs/) - Machine Learning Jobs List is the machine learning community to find and post jobs! 
 
 ## Programming
 
