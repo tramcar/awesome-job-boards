@@ -80,7 +80,7 @@ A curated list of awesome niche job boards.
 
 ### JavaScript
 
-* [Angular Jobs](http://angularjobs.com/)
+* [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
