@@ -53,6 +53,7 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
+* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Machine Learning
 
