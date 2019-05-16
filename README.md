@@ -41,6 +41,7 @@ A curated list of awesome niche job boards.
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
+* [PRODUCTHIRE.NET](https://producthire.net/)
 
 ## DevOps
 
