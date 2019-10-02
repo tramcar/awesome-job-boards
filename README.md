@@ -148,6 +148,10 @@ A curated list of awesome niche job boards.
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
