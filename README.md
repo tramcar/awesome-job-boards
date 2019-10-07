@@ -126,6 +126,7 @@ A curated list of awesome niche job boards.
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
+* [DailyRemote](https://dailyremote.com/)
 
 ### Aggregator
 
