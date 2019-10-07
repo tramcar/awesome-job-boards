@@ -90,6 +90,7 @@ A curated list of awesome niche job boards.
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
+* [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
