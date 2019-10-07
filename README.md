@@ -149,6 +149,10 @@ A curated list of awesome niche job boards.
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
 
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
