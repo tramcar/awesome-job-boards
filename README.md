@@ -20,6 +20,7 @@ A curated list of awesome niche job boards.
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 
 ## Blockchain
 
@@ -53,6 +54,7 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
+* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Machine Learning
 
@@ -81,6 +83,7 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Cafe](https://golang.cafe)
 
 ### JavaScript
 
@@ -148,6 +151,11 @@ A curated list of awesome niche job boards.
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
+* [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
+
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
 ### United States
 
