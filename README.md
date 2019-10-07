@@ -20,6 +20,7 @@ A curated list of awesome niche job boards.
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 
 ## Blockchain
 
