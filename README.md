@@ -141,6 +141,9 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
+* [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [Relocate.me](https://relocate.me/) - Verified relocation packages
+
 ### Australia
 
 * [Breakout Careers](https://breakout.careers/) - Australia's best tech and startup job board
@@ -163,7 +166,3 @@ A curated list of awesome niche job boards.
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
-
-### Free & Open Source
-
-* [Free & Open Source Jobs](https://www.fossjobs.net/)
