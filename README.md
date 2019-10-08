@@ -20,11 +20,13 @@ A curated list of awesome niche job boards.
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 
 ## Blockchain
 
 * [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
+* [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
 
 ## Customer Support
 
@@ -53,6 +55,7 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
+* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Machine Learning
 
@@ -81,12 +84,14 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Cafe](https://golang.cafe)
 
 ### JavaScript
 
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
+* [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
@@ -122,6 +127,7 @@ A curated list of awesome niche job boards.
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
+* [DailyRemote](https://dailyremote.com/)
 
 ### Aggregator
 
@@ -138,6 +144,7 @@ A curated list of awesome niche job boards.
 
 ### Australia
 
+* [Breakout Careers](https://breakout.careers/) - Australia's best tech and startup job board
 * [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
 
 ### Canada
@@ -148,6 +155,11 @@ A curated list of awesome niche job boards.
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - Job board & company list for Berlin's tech & IT world
+* [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
+
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
 ### United States
 
