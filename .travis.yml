@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot -w jobs.drupal.org README.md
+  - awesome_bot -w jobs.drupal.org,jobs.emberjs.com README.md
