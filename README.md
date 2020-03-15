@@ -90,6 +90,7 @@ A curated list of awesome niche job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
+* [Svelte Jobs](https://sveltejobs.dev/)
 
 ### Perl
 
