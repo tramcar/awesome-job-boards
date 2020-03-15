@@ -80,6 +80,7 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Developer Jobs](https://golangjob.xyz)
 
 ### JavaScript
 
@@ -107,6 +108,7 @@ A curated list of awesome niche job boards.
 
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
+* [Python Developer Jobs](https://pythonjob.xyz)
 
 ### Ruby
 
