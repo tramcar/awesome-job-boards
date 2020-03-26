@@ -139,6 +139,7 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
+* [wateringcan.work](https://www.wateringcan.work) - Christian Tech Jobs
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 
