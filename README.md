@@ -140,7 +140,7 @@ A curated list of awesome niche job boards.
 
 ## Startups
 
-* [BerlinStartupJobs]https://berlinstartupjobs.com/ - The hottest jobs at Berlin's finest startups and scaleups since 2011
+* [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
 
 ## Tech
