@@ -145,6 +145,7 @@ A curated list of awesome niche job boards.
 ### Australia
 
 * [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
+* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
