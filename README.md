@@ -21,6 +21,7 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 
 ## Blockchain
 
