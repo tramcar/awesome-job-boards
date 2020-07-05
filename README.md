@@ -21,12 +21,18 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 
 ## Blockchain
 
 * [Blocktribe](https://blocktribe.com/) - A job board for people working in "blockchain, DLT, Ethereum, Hyperledger, R3, crypto currency and related distributed technologies".
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+
+## Cloud
+
+* [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 
 ## Customer Support
 
@@ -135,6 +141,7 @@ A curated list of awesome niche job boards.
 
 ## Startups
 
+* [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
 
 ## Tech
@@ -142,10 +149,12 @@ A curated list of awesome niche job boards.
 * [wateringcan.work](https://www.wateringcan.work) - Christian Tech Jobs
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
+* [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
 ### Australia
 
 * [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
+* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
