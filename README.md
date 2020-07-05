@@ -35,7 +35,7 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
+* [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](http://ixda.org/jobs/)
@@ -50,7 +50,7 @@ A curated list of awesome niche job boards.
 
 ## Growth Hacking
 
-* [GrowthHackers](https://growthhackers.com/jobs)
+* [GrowthHackers](https://jobs.growthhackers.com/)
 
 ## InfoSec
 
@@ -90,7 +90,6 @@ A curated list of awesome niche job boards.
 * [Jobs In JS](http://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
-* [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
 
@@ -146,8 +145,7 @@ A curated list of awesome niche job boards.
 
 ### Australia
 
-* [Breakout Careers](https://breakout.careers/) - Australia's best tech and startup job board
-* [austechjobs.com.au](https://austechjobs.com.au/) - Premium Australian Tech Job Board
+* [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
 
 ### Canada
 
