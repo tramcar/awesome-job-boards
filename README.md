@@ -44,7 +44,7 @@ A curated list of awesome niche job boards.
 * [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
-* [IXDA](http://ixda.org/jobs/)
+* [IXDA](https://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
@@ -79,7 +79,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
+* [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -169,7 +169,3 @@ A curated list of awesome niche job boards.
 ### United Kingdom
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
-
-### United States
-
-* [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
