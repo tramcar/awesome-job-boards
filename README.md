@@ -133,6 +133,7 @@ A curated list of awesome niche job boards.
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
+* [EqualOpportunity.Work](https://equalopportunity.work/)
 
 ### Aggregator
 
