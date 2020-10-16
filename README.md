@@ -44,7 +44,7 @@ A curated list of awesome niche job boards.
 * [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
-* [IXDA](http://ixda.org/jobs/)
+* [IXDA](https://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
@@ -79,7 +79,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [Functional Jobs](https://functionaljobs.com/) - Job board for functional programmers
+* [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 
 ### Go
 
@@ -164,13 +164,10 @@ A curated list of awesome niche job boards.
 ### Europe
 
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
+* [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
 * [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
 ### United Kingdom
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
-
-### United States
-
-* [DallasJobs](https://www.dallasjobs.io/) - The best tech jobs in Dallas / Fort Worth
