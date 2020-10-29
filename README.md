@@ -155,6 +155,7 @@ A curated list of awesome niche job boards.
 
 ### Australia
 
+* [AU Tech Jobs](https://autechjobs.ml) - Tech jobs from 50+ Australian companies with a focus on visa sponsorship
 * [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
 * [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
