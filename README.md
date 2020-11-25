@@ -54,6 +54,10 @@ A curated list of awesome niche job boards.
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 
+## Gaming
+
+* [Work With Indies](https://workwithindies.com] - A single place find all the cool jobs in indie games
+
 ## Growth Hacking
 
 * [GrowthHackers](https://jobs.growthhackers.com/)
