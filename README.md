@@ -56,7 +56,7 @@ A curated list of awesome niche job boards.
 
 ## Gaming
 
-* [Work With Indies](https://workwithindies.com] - A single place find all the cool jobs in indie games
+* [Work With Indies](https://www.workwithindies.com] - A single place find all the cool jobs in indie games
 
 ## Growth Hacking
 
@@ -72,10 +72,6 @@ A curated list of awesome niche job boards.
 ### Elixir
 
 * [Elixir Jobs](https://elixir.career/)
-
-### Front-End
-
-* [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
 
 ### Full-Stack
 
