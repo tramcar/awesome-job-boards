@@ -23,9 +23,9 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Setup Ruby, JRuby and TruffleRuby
-      uses: ruby/setup-ruby@v1.39.0
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.2
+        ruby-version: 2.4
 
     # Runs a single command using the runners shell
     - name: Install awesome_bot gem
