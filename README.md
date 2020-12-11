@@ -134,6 +134,7 @@ A curated list of awesome niche job boards.
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
+* [Just Remote](https://justremote.co/remote-jobs)
 
 ### Aggregator
 
