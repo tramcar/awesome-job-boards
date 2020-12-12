@@ -53,6 +53,7 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
+* [Kube Jobs](https://kubejobs.io) - Hand-picked and curated Kubernetes jobs.
 
 ## Gaming
 
