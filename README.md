@@ -134,6 +134,7 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
+* [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
