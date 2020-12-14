@@ -130,13 +130,15 @@ A curated list of awesome niche job boards.
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
+* [Just Remote](https://justremote.co/remote-jobs)
 
 ### Aggregator
 
-* [remotebond](https://remotebond.com/)
+* [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
+* [remotebond](https://remotebond.com/)
 
 ## Startups
 
