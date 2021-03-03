@@ -120,6 +120,9 @@ A curated list of awesome niche job boards.
 
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
+### Scala
+* [Scala Jobs](https://ScalaJobs.dev)
+
 ### WebAssembly
 
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
