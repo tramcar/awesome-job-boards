@@ -78,6 +78,7 @@ A curated list of awesome niche job boards.
 ### Functional
 
 * [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
+* [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
 
