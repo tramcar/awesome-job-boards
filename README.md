@@ -86,6 +86,7 @@ A curated list of awesome niche job boards.
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
 * [Golang Developer Jobs](https://golangjob.xyz)
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
