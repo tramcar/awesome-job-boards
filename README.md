@@ -140,6 +140,7 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
+* [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
