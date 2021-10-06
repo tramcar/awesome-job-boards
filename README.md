@@ -69,6 +69,11 @@ A curated list of awesome niche job boards.
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
+## Metaverse
+
+* [Metaverse Jobs](https://themetaversejobs.com)
+* [Hire.AR](https://hire.ar)
+
 ## Programming
 
 ### Full-Stack
