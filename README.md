@@ -1,4 +1,4 @@
-# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
 
@@ -84,13 +84,12 @@ A curated list of awesome niche job boards.
 
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
-* [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
 * [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
-* [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
