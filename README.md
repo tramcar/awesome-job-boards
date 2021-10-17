@@ -16,6 +16,7 @@ A curated list of awesome niche job boards.
 - [Programming](#programming)
 - [Remote](#remote)
 - [Tech](#tech)
+- [Writing](#writing)
 
 ## Big Data
 
@@ -178,3 +179,8 @@ A curated list of awesome niche job boards.
 ### United Kingdom
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+
+## Writing
+
+* [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
+* [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
