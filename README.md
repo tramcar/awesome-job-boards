@@ -1,4 +1,4 @@
-# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
 
@@ -22,6 +22,7 @@ A curated list of awesome niche job boards.
 * [DataJobs.com](https://datajobs.com/)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 
 ## Blockchain
 
@@ -85,19 +86,19 @@ A curated list of awesome niche job boards.
 
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
-* [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
 * [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
-* [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ### Kotlin
 * [Kotlin Jobs](https://KotlinJobs.dev)
@@ -147,6 +148,7 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
+* [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
@@ -171,7 +173,7 @@ A curated list of awesome niche job boards.
 
 ### Canada
 
-* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond 
+* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
 
 ### Europe
 
