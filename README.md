@@ -130,7 +130,7 @@ A curated list of awesome niche job boards.
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
-* [Scala Jobs](https://ScalaJobs.dev)
+* [Scala Jobs](https://scalajobs.dev)
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
