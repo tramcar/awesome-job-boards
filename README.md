@@ -79,6 +79,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
+* [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 * [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 * [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
@@ -99,6 +100,9 @@ A curated list of awesome niche job boards.
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+
+### Kotlin
+* [Kotlin Jobs](https://kotlinjobs.dev)
 
 ### Perl
 
@@ -126,7 +130,10 @@ A curated list of awesome niche job boards.
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
-* [Scala Jobs](https://ScalaJobs.dev)
+* [Scala Jobs](https://scalajobs.dev)
+
+### TypeScript
+* [TypeScript Jobs](https://typescriptjobs.dev)
 
 ### WebAssembly
 
