@@ -78,6 +78,10 @@ A curated list of awesome niche job boards.
 
 ## Programming
 
+### Aggregator
+
+* [findwork.dev](https://findwork.dev/)
+
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
@@ -168,7 +172,6 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
-* [wateringcan.work](https://www.wateringcan.work) - Christian Tech Jobs
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
