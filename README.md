@@ -73,6 +73,10 @@ A curated list of awesome niche job boards.
 
 ## Programming
 
+### Aggregator
+
+* [findwork.dev](https://findwork.dev/)
+
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
