@@ -73,8 +73,8 @@ A curated list of awesome niche job boards.
 
 ## Metaverse
 
-* [Metaverse Jobs](https://themetaversejobs.com/) - Job board for Metaverse jobs
-* [Hire.AR](https://hire.ar/) - Job board for Augmented Reality jobs
+* [Metaverse Jobs](https://www.themetaversejobs.com/) - Job board for Metaverse jobs
+* [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ## Programming
 
