@@ -71,7 +71,16 @@ A curated list of awesome niche job boards.
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
+## Metaverse
+
+* [Metaverse Jobs](https://www.themetaversejobs.com/) - Job board for Metaverse jobs
+* [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
+
 ## Programming
+
+### Aggregator
+
+* [findwork.dev](https://findwork.dev/)
 
 ### Full-Stack
 
@@ -146,6 +155,7 @@ A curated list of awesome niche job boards.
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
+* [Dynamite Jobs](https://www.dynamitejobs.com/) - Jobs from remote-first companies
 
 ### Aggregator
 
@@ -163,8 +173,8 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
-* [wateringcan.work](https://www.wateringcan.work) - Christian Tech Jobs
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
