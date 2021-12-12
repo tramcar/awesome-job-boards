@@ -136,6 +136,7 @@ A curated list of awesome niche job boards.
 
 ### Rust
 
+* [Rust Jobs](https://rustjobs.dev)
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
