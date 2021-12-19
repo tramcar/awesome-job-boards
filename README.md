@@ -130,6 +130,10 @@ A curated list of awesome niche job boards.
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
 
+### Ruby
+
+* [RubyNow](https://jobs.rubynow.com/)
+
 ### Rust
 
 * [Rust Jobs](https://rustjobs.dev)
