@@ -102,11 +102,11 @@ A curated list of awesome niche job boards.
 
 ### JavaScript
 
-* [Angular Work](https://angular.work/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
+* [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.dev/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
@@ -136,6 +136,7 @@ A curated list of awesome niche job boards.
 
 ### Rust
 
+* [Rust Jobs](https://rustjobs.dev)
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
@@ -155,13 +156,13 @@ A curated list of awesome niche job boards.
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
-* [Dynamite Jobs](https://www.dynamitejobs.com/) - Jobs from remote-first companies
+* [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 
 ### Aggregator
 
 * [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [Career Vault](https://careervault.io/) - Thousands of remote jobs scraped from 900+ companies every few hours
-* [remote | OK](https://remoteok.io/)
+* [remote | OK](https://remoteok.com/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
