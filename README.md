@@ -76,11 +76,19 @@ A curated list of awesome niche job boards.
 * [Metaverse Jobs](https://www.themetaversejobs.com/) - Job board for Metaverse jobs
 * [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
+## Machine Learning
+
+* [Jobhunt.ai](https://jobhunt.ai/) - Machine learning and data science jobs, also got a remote section
+
 ## Programming
 
 ### Aggregator
 
 * [findwork.dev](https://findwork.dev/)
+
+### Clojure
+
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
 
 ### Full-Stack
 
@@ -93,7 +101,7 @@ A curated list of awesome niche job boards.
 
 ### Go
 
-* [Golangprojects](https://www.golangprojects.com/)
+* [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
