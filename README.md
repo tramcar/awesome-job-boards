@@ -30,6 +30,7 @@ A curated list of awesome niche job boards.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+* [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 
 ## Cloud
@@ -99,6 +100,7 @@ A curated list of awesome niche job boards.
 
 * [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 * [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
+* [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
 
@@ -106,6 +108,7 @@ A curated list of awesome niche job boards.
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
@@ -115,6 +118,7 @@ A curated list of awesome niche job boards.
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.dev/)
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ### Kotlin
 * [Kotlin Jobs](https://kotlinjobs.dev)
