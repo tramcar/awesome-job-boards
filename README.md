@@ -56,7 +56,6 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
-* [Kube Jobs](https://kubejobs.io) - Hand-picked and curated Kubernetes jobs.
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 * [devops-jobs.net](https://devops-jobs.net) — Awesome jobs in DevOps, Cloud and Digital Infrastructure.
 
@@ -120,9 +119,6 @@ A curated list of awesome niche job boards.
 * [Svelte Jobs](https://sveltejobs.dev/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
-### Kotlin
-* [Kotlin Jobs](https://kotlinjobs.dev)
-
 ### Perl
 
 * [The Perl Job Site](https://jobs.perl.org/)
@@ -147,7 +143,6 @@ A curated list of awesome niche job boards.
 ### Rust
 
 * [Rust Jobs](https://rustjobs.dev)
-* [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
 * [Scala Jobs](https://scalajobs.dev)
