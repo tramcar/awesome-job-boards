@@ -167,6 +167,7 @@ A curated list of awesome niche job boards.
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+* [Teletravail.guru](https://www.teletravail.guru/) - Remote jobs for people located in France
 
 ### Aggregator
 
