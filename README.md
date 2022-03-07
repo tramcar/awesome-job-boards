@@ -176,6 +176,7 @@ A curated list of awesome niche job boards.
 
 * [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
+* [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 
 ## Tech
 
