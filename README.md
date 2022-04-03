@@ -144,6 +144,7 @@ A curated list of awesome niche job boards.
 ### Rust
 
 * [Rust Jobs](https://rustjobs.dev)
+* [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
 ### Scala
 * [Scala Jobs](https://scalajobs.dev)
