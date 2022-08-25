@@ -163,6 +163,7 @@ A curated list of awesome niche job boards.
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+* [Strider](https://www.onstrider.com/)
 
 ### Aggregator
 
