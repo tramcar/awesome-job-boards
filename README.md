@@ -29,6 +29,7 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
+* [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
