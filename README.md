@@ -29,10 +29,11 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
-* [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
+* [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
+* [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
 
 ## Cloud
 
@@ -48,7 +49,7 @@ A curated list of awesome niche job boards.
 * [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
-* [IXDA](https://ixda.org/jobs/)
+* [IXDA](https://www.ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
@@ -58,7 +59,6 @@ A curated list of awesome niche job boards.
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
-* [devops-jobs.net](https://devops-jobs.net) — Awesome jobs in DevOps, Cloud and Digital Infrastructure.
 
 ## Gaming
 
@@ -75,7 +75,6 @@ A curated list of awesome niche job boards.
 
 ## Metaverse
 
-* [Metaverse Jobs](https://www.themetaversejobs.com/) - Job board for Metaverse jobs
 * [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ## Machine Learning
@@ -117,7 +116,7 @@ A curated list of awesome niche job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
-* [Svelte Jobs](https://sveltejobs.dev/)
+* [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ### Perl
@@ -144,9 +143,10 @@ A curated list of awesome niche job boards.
 ### Rust
 
 * [Rust Jobs](https://rustjobs.dev)
+* [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
 ### Scala
-* [Scala Jobs](https://scalajobs.dev)
+* [Scala Jobs](https://scalajobs.com)
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
@@ -160,7 +160,6 @@ A curated list of awesome niche job boards.
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
-* [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 
@@ -177,6 +176,7 @@ A curated list of awesome niche job boards.
 * [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
+* [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
 
 ## Tech
 
