@@ -130,6 +130,7 @@ A curated list of awesome niche job boards.
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/) - WordPress Jobs
+* [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ### Python
 
