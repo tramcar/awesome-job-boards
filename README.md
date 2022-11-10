@@ -4,6 +4,7 @@ A curated list of awesome niche job boards.
 
 ## Table of Contents
 
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Customer Support](#customer-support)
@@ -17,6 +18,10 @@ A curated list of awesome niche job boards.
 - [Remote](#remote)
 - [Tech](#tech)
 - [Writing](#writing)
+
+## Artificial Intelligence (AI)
+
+* [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 
 ## Big Data
 
