@@ -4,6 +4,7 @@ A curated list of awesome niche job boards.
 
 ## Table of Contents
 
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Customer Support](#customer-support)
@@ -18,10 +19,14 @@ A curated list of awesome niche job boards.
 - [Tech](#tech)
 - [Writing](#writing)
 
+## Artificial Intelligence (AI)
+
+* [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
