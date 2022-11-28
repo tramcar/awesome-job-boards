@@ -149,6 +149,7 @@ A curated list of awesome niche job boards.
 ### Ruby
 
 * [RubyNow](https://jobs.rubynow.com/)
+* [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
 ### Rust
 
