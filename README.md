@@ -141,6 +141,7 @@ A curated list of awesome niche job boards.
 
 ### Python
 
+* [PyJobs](https://www.pyjobs.com)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
