@@ -18,6 +18,7 @@ A curated list of awesome niche job boards.
 - [Remote](#remote)
 - [Tech](#tech)
 - [Writing](#writing)
+- [Various](#various)
 
 ## Artificial Intelligence (AI)
 
@@ -219,3 +220,6 @@ A curated list of awesome niche job boards.
 
 * [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
+
+## Various
+* [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
