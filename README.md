@@ -213,4 +213,3 @@ A curated list of awesome niche job boards.
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
-* [4dayweek](https://4dayweek.io/) - 4 Day work week jobs
