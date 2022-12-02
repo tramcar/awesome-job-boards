@@ -162,7 +162,7 @@ A curated list of awesome niche job boards.
 * [Werkington](https://www.werkington.com/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
-* [Teletravail.guru](https://www.teletravail.guru/) - Remote jobs for people located in France
+* [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
 ### Aggregator
 
