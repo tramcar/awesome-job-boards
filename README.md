@@ -4,6 +4,7 @@ A curated list of awesome niche job boards.
 
 ## Table of Contents
 
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Customer Support](#customer-support)
@@ -17,11 +18,16 @@ A curated list of awesome niche job boards.
 - [Remote](#remote)
 - [Tech](#tech)
 - [Writing](#writing)
+- [Various](#various)
+
+## Artificial Intelligence (AI)
+
+* [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
@@ -34,6 +40,8 @@ A curated list of awesome niche job boards.
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 * [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
+* [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+* [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
 
 ## Cloud
 
@@ -57,7 +65,6 @@ A curated list of awesome niche job boards.
 
 ## DevOps
 
-* [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
 ## Gaming
@@ -118,6 +125,7 @@ A curated list of awesome niche job boards.
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+* [JSJobbs](https://jsjobbs.com/)
 
 ### Perl
 
@@ -129,9 +137,11 @@ A curated list of awesome niche job boards.
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/) - WordPress Jobs
+* [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ### Python
 
+* [PyJobs](https://www.pyjobs.com)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
@@ -139,6 +149,7 @@ A curated list of awesome niche job boards.
 ### Ruby
 
 * [RubyNow](https://jobs.rubynow.com/)
+* [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
 ### Rust
 
@@ -176,6 +187,7 @@ A curated list of awesome niche job boards.
 
 * [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
+* [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
 
 ## Tech
@@ -209,3 +221,6 @@ A curated list of awesome niche job boards.
 
 * [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
+
+## Various
+* [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
