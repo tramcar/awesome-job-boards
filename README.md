@@ -174,6 +174,7 @@ A curated list of awesome niche job boards.
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
+* [Devremote](https://devremote.io/) - Remote developer jobs are remote first companies
 
 ### Aggregator
 
