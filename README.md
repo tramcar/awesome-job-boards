@@ -10,6 +10,7 @@ A curated list of awesome niche job boards.
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [DevOps](#devops)
+- [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
@@ -66,6 +67,10 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+
+## Finance
+
+* [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
 
 ## Gaming
 
