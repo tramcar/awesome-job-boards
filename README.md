@@ -11,6 +11,7 @@ A curated list of awesome niche job boards.
 - [Design](#design)
 - [DevOps](#devops)
 - [eCommerce] (#ecommerce)
+- [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
@@ -72,6 +73,10 @@ A curated list of awesome niche job boards.
 ## eCommerce
 
 * [eComPortal] (https://ecomportal.co) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
+
+## Finance
+
+* [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
 
 ## Gaming
 
