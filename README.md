@@ -10,6 +10,7 @@ A curated list of awesome niche job boards.
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [DevOps](#devops)
+- [eCommerce] (#ecommerce)
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
@@ -25,6 +26,7 @@ A curated list of awesome niche job boards.
 
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 
 ## Big Data
 
@@ -67,6 +69,10 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+
+## eCommerce
+
+* [eComPortal] (https://ecomportal.co) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
 
 ## Finance
 
