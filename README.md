@@ -194,6 +194,7 @@ A curated list of awesome niche job boards.
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
+* [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 
 ## Startups
 
