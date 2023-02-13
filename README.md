@@ -10,7 +10,7 @@ A curated list of awesome niche job boards.
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [DevOps](#devops)
-- [eCommerce] (#ecommerce)
+- [eCommerce](#ecommerce)
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
@@ -236,3 +236,4 @@ A curated list of awesome niche job boards.
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
+* [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
