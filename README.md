@@ -113,6 +113,10 @@ A curated list of awesome niche job boards.
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
+### Frontend
+
+* [Frontend Careers](https://frontendcareers.com/) - Job board for Frontend Developers
+
 ### Functional
 
 * [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
