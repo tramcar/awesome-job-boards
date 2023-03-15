@@ -44,7 +44,7 @@ A curated list of awesome niche job boards.
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 * [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
 * [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
-* [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
+* [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 
 ## Cloud
 
@@ -173,10 +173,6 @@ A curated list of awesome niche job boards.
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
-### WebAssembly
-
-* [WebAssembly Jobs](https://webassemblyjobs.com/)
-
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
@@ -208,11 +204,6 @@ A curated list of awesome niche job boards.
 * [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
-
-### Australia
-
-* [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
-* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
