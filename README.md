@@ -10,7 +10,7 @@ A curated list of awesome niche job boards.
 - [Customer Support](#customer-support)
 - [Design](#design)
 - [DevOps](#devops)
-- [eCommerce] (#ecommerce)
+- [eCommerce](#ecommerce)
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
@@ -44,7 +44,7 @@ A curated list of awesome niche job boards.
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 * [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
 * [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
-* [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
+* [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 
 ## Cloud
 
@@ -174,10 +174,6 @@ A curated list of awesome niche job boards.
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
-### WebAssembly
-
-* [WebAssembly Jobs](https://webassemblyjobs.com/)
-
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
@@ -187,6 +183,8 @@ A curated list of awesome niche job boards.
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
+* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+
 
 ### Aggregator
 
@@ -195,6 +193,7 @@ A curated list of awesome niche job boards.
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
+* [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 
 ## Startups
 
@@ -209,11 +208,6 @@ A curated list of awesome niche job boards.
 * [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
-
-### Australia
-
-* [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
-* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
@@ -237,3 +231,4 @@ A curated list of awesome niche job boards.
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
+* [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
