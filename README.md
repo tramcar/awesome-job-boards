@@ -27,6 +27,7 @@ A curated list of awesome niche job boards.
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
+* [Best AI Jobs](https://bestaijobs.com) - Best AI Jobs from 100+ AI Startups
 
 ## Big Data
 
