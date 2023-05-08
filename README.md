@@ -105,6 +105,7 @@ A curated list of awesome niche job boards.
 ### Aggregator
 
 * [findwork.dev](https://findwork.dev/)
+* [Levels.fyi](https://www.levels.fyi/jobs)
 
 ### Clojure
 
