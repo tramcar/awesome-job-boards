@@ -50,10 +50,6 @@ A curated list of awesome niche job boards.
 
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 
-## Customer Support
-
-* [Support Driven Jobs](https://jobs.supportdriven.com/)
-
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
@@ -114,10 +110,6 @@ A curated list of awesome niche job boards.
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
-
-### Frontend
-
-* [Frontend Careers](https://frontendcareers.com/) - Job board for Frontend Developers
 
 ### Functional
 
@@ -210,7 +202,6 @@ A curated list of awesome niche job boards.
 ## Tech
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
