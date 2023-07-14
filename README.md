@@ -202,6 +202,7 @@ A curated list of awesome niche job boards.
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
+* [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ### Canada
 
