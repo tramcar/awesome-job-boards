@@ -70,7 +70,7 @@ A curated list of awesome niche job boards.
 
 ## eCommerce
 
-* [eComPortal] (https://ecomportal.co) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
+* [eComPortal] (https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
 
 ## Finance
 
@@ -88,10 +88,6 @@ A curated list of awesome niche job boards.
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
-
-## Metaverse
-
-* [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ## Machine Learning
 
@@ -121,7 +117,6 @@ A curated list of awesome niche job boards.
 ### Go
 
 * [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
-* [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
 * [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
