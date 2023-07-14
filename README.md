@@ -46,6 +46,7 @@ A curated list of awesome niche job boards.
 * [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
 * [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
+* [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
 
 ## Cloud
 
