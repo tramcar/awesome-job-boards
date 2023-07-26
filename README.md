@@ -72,7 +72,7 @@ A curated list of awesome niche job boards.
 
 ## eCommerce
 
-* [eComPortal] (https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
+* [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
 
 ## Finance
 
