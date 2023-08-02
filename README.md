@@ -59,7 +59,6 @@ A curated list of awesome niche job boards.
 * [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
-* [IXDA](https://www.ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
