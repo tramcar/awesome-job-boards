@@ -61,7 +61,6 @@ A curated list of awesome niche job boards.
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](https://www.ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
-* [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
@@ -144,7 +143,6 @@ A curated list of awesome niche job boards.
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [WPhired](https://www.wphired.com/) - WordPress Jobs
 * [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ### Python
