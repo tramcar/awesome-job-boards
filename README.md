@@ -7,7 +7,6 @@ A curated list of awesome niche job boards.
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
-- [Customer Support](#customer-support)
 - [Design](#design)
 - [DevOps](#devops)
 - [eCommerce](#ecommerce)
