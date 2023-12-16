@@ -156,6 +156,7 @@ A curated list of awesome niche job boards.
 
 ### Rust
 
+* [Rust Jobs](https://www.rustjobs.com)
 * [Rust Jobs](https://rustjobs.dev)
 * [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
