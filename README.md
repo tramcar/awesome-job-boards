@@ -35,6 +35,8 @@ A curated list of awesome niche job boards.
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+* [AiJobsTracker](https://www.aijobs.18offers.com/) | live aggregator of 400+ AI-first companies's job boards, updated daily.
+
 
 ## Blockchain
 
@@ -216,4 +218,4 @@ A curated list of awesome niche job boards.
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
-* [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
+* [ClimateTechList](https://www.climatetechlist.com/) | comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily.
