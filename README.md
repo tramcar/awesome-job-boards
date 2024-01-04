@@ -26,7 +26,6 @@ A curated list of awesome niche job boards.
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
-* [Best AI Jobs](https://bestaijobs.com) - Best AI Jobs from 100+ AI Startups
 * [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## Big Data
@@ -36,7 +35,6 @@ A curated list of awesome niche job boards.
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
-* [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
 
 ## Blockchain
@@ -91,10 +89,6 @@ A curated list of awesome niche job boards.
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 * [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
-## Machine Learning
-
-* [Jobhunt.ai](https://jobhunt.ai/) - Machine learning and data science jobs, also got a remote section
-
 ## Programming
 
 ### Aggregator
@@ -125,7 +119,6 @@ A curated list of awesome niche job boards.
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
-* [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
