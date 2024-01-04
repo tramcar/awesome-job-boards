@@ -186,6 +186,7 @@ A curated list of awesome niche job boards.
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
 * [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
+* [OkJob](https://okjob.io/) - 4 day week job board
 
 ## Startups
 
