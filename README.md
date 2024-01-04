@@ -14,7 +14,6 @@ A curated list of awesome niche job boards.
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
-- [Machine Learning](#machine-learning)
 - [Programming](#programming)
 - [Remote](#remote)
 - [Tech](#tech)
