@@ -160,10 +160,11 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
-* [We Work Remotely](https://weworkremotely.com/)
-* [DailyRemote](https://dailyremote.com/)
+* [Tech A Job](https://techajob.com/) - Remote tech job board
+* [We Work Remotely](https://weworkremotely.com/) - Remote Job board  updating regularly for all types of jobs
+* [DailyRemote](https://dailyremote.com/) - 
 * [Werkington](https://www.werkington.com/)
-* [Just Remote](https://justremote.co/remote-jobs)
+* [Just Remote](https://justremote.co/remote-jobs) - Remote Job board for all types of jobs
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
