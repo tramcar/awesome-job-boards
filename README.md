@@ -95,6 +95,7 @@ A curated list of awesome niche job boards.
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
 * [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
+* [androiddev.careers](http://androiddev.careers/) – Job board for Android developers
 
 ### Clojure
 
