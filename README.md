@@ -22,7 +22,7 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
-* [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them.
+* [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
@@ -35,19 +35,19 @@ A curated list of awesome niche job boards.
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
-* [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+* [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 
 ## Blockchain
 
-* [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
-* [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform.
+* [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
+* [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
-* [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free.
-* [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+* [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
+* [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
-* [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs.
+* [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 
 ## Cloud
 
@@ -56,7 +56,7 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
+* [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [Jobs for Designers](https://dribbble.com/jobs)
@@ -66,7 +66,7 @@ A curated list of awesome niche job boards.
 
 ## DevOps
 
-* [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+* [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
 
 ## eCommerce
 
@@ -113,7 +113,7 @@ A curated list of awesome niche job boards.
 * [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
-* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source
 
 ### JavaScript
 
@@ -122,7 +122,7 @@ A curated list of awesome niche job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.com/)
-* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 * [JSJobbs](https://jsjobbs.com/)
 
 ### Perl
@@ -150,8 +150,8 @@ A curated list of awesome niche job boards.
 
 ### Rust
 
-* [Rust Jobs](https://www.rustjobs.com)
-* [Rust Jobs](https://rustjobs.dev)
+* [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
+* [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
 * [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
 ### Scala
@@ -208,7 +208,7 @@ A curated list of awesome niche job boards.
 
 ### United Kingdom
 
-* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
 
 ## Writing
 
