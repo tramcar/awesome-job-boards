@@ -22,6 +22,7 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
+* [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them.
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 * [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
@@ -216,5 +217,4 @@ A curated list of awesome niche job boards.
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
-* [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
 * [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.
