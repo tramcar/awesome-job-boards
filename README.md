@@ -36,7 +36,7 @@ A curated list of awesome niche job boards.
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
-* [AiJobsTracker](https://aijobs.18offers.com/) | live aggregator of 400+ AI-first companies's job boards, updated daily.
+* [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 
 ## Blockchain
 
