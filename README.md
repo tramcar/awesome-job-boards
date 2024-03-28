@@ -154,7 +154,7 @@ A curated list of awesome niche job boards.
 
 ### Rust
 
-* [Rust Wizards](rustwizards.com) - The reverse job board for Rust developers!
+* [Rust Wizards](https://www.rustwizards.com) - The reverse job board for Rust developers!
 * [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 * [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
 * [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
