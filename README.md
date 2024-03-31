@@ -41,7 +41,6 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
-* [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co is the web's fastest growing crypto jobs discovery platform
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
@@ -96,7 +95,6 @@ A curated list of awesome niche job boards.
 
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
-* [Dev Employ](https://devemploy.com/) - Hand-picked developer jobs
 
 ### Clojure
 
@@ -104,7 +102,6 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 * [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
 * [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
@@ -149,7 +146,6 @@ A curated list of awesome niche job boards.
 
 ### Ruby
 
-* [RubyNow](https://jobs.rubynow.com/)
 * [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
 ### Rust
@@ -197,7 +193,6 @@ A curated list of awesome niche job boards.
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
-* [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
 
 ### Canada
 
