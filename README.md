@@ -102,7 +102,7 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
+* [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 * [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
