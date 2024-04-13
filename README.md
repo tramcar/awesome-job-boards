@@ -7,6 +7,7 @@ A curated list of awesome niche job boards.
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
+- [Database](#database)
 - [Design](#design)
 - [DevOps](#devops)
 - [eCommerce](#ecommerce)
@@ -53,6 +54,10 @@ A curated list of awesome niche job boards.
 
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 * [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence 
+
+## Database
+
+* [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
 ## Design
 
