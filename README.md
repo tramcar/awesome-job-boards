@@ -163,6 +163,9 @@ A curated list of awesome niche job boards.
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
 
+### Java
+* [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
+
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
