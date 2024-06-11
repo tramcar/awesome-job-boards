@@ -73,6 +73,8 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
+* [JobDevOps](https://jobdevops.com) — Job board for DevOps comm
+unity
 
 ## eCommerce
 
