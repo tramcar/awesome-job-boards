@@ -171,6 +171,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
