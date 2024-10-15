@@ -213,6 +213,8 @@ A curated list of awesome niche job boards.
 * [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
 * [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
+* [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
+
 
 ### United Kingdom
 
