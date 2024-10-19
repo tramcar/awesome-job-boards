@@ -73,6 +73,7 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
+* [JobDevOps](https://jobdevops.com) — Job board for DevOps community
 
 ## eCommerce
 
@@ -226,3 +227,4 @@ A curated list of awesome niche job boards.
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
+* [Workpt](https://workpt.com/) - Part-Time jobs
