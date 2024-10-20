@@ -23,11 +23,11 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
+* [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 * [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
-* [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## Big Data
 
@@ -167,6 +167,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
