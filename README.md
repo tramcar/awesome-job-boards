@@ -25,7 +25,7 @@ A curated list of awesome niche job boards.
 
 * [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
-* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
@@ -93,7 +93,7 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
-* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
+* [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Programming
 
@@ -158,13 +158,9 @@ A curated list of awesome niche job boards.
 
 * [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 * [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
-* [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
-
-### Java
-* [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
@@ -212,7 +208,6 @@ A curated list of awesome niche job boards.
 * [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
-* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
 ### United Kingdom
 
@@ -221,7 +216,6 @@ A curated list of awesome niche job boards.
 ## Writing
 
 * [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
-* [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
