@@ -11,7 +11,7 @@ A curated list of awesome niche job boards.
 - [Design](#design)
 - [DevOps](#devops)
 - [eCommerce](#ecommerce)
-- [Finance](#finance)fs
+- [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
