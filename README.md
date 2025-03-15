@@ -195,6 +195,9 @@ A curated list of awesome niche job boards.
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 
+### Africa
+* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+
 ### Canada
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
@@ -208,8 +211,9 @@ A curated list of awesome niche job boards.
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
-## Africa
-* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+### Latin America
+
+* [Findjobit](https://findjobit.com/jobs)
 
 ### United Kingdom
 
