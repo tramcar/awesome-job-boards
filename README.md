@@ -24,7 +24,7 @@ A curated list of awesome niche job boards.
 ## Artificial Intelligence (AI)
 
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
-* [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+* [AI Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 
