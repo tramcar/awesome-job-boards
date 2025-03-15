@@ -24,7 +24,6 @@ A curated list of awesome niche job boards.
 ## Artificial Intelligence (AI)
 
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
-* [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
@@ -32,7 +31,6 @@ A curated list of awesome niche job boards.
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
@@ -85,10 +83,6 @@ A curated list of awesome niche job boards.
 ## Gaming
 
 * [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
-
-## Growth Hacking
-
-* [GrowthHackers](https://jobs.growthhackers.com/)
 
 ## InfoSec
 
@@ -185,7 +179,6 @@ A curated list of awesome niche job boards.
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
-* [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 * [OkJob](https://okjob.io/) - 4 day week job board
 
 ## Startups
@@ -213,6 +206,9 @@ A curated list of awesome niche job boards.
 * [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+
+## Africa
+* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
 
 ### United Kingdom
 
