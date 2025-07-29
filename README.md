@@ -195,6 +195,7 @@ A curated list of awesome niche job boards.
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+* [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
 
 ### Africa
 * [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
