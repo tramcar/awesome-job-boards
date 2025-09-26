@@ -155,9 +155,6 @@ A curated list of awesome niche job boards.
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
 
-### TypeScript
-* [TypeScript Jobs](https://typescriptjobs.dev)
-
 ## Remote
 
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
