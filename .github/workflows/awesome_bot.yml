@@ -33,4 +33,4 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Run awesome_bot linter
-      run: awesome_bot -w jobs.drupal.org,landing.jobs,www1.communitech.ca,ninjajobs.org,ScalaJobs.dev,javascriptjob.xyz,startup.jobs,pythonjob.xyz,remoteok.com README.md
+      run: awesome_bot -w jobs.drupal.org,landing.jobs,www1.communitech.ca,ninjajobs.org,ScalaJobs.dev,javascriptjob.xyz,startup.jobs,pythonjob.xyz,remoteok.com,androiddev.careers README.md

@@ -17,7 +17,7 @@ A curated list of awesome niche job boards.
 - [Open Source](#opensource)
 - [Programming](#programming)
 - [Remote](#remote)
-- [Quantum Computing)(#quantum-computing)
+- [Quantum Computing](#quantum-computing)
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
