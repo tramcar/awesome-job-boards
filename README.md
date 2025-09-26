@@ -17,6 +17,7 @@ A curated list of awesome niche job boards.
 - [Open Source](#opensource)
 - [Programming](#programming)
 - [Remote](#remote)
+- [Quantum Computing)(#quantum-computing)
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
@@ -166,6 +167,10 @@ A curated list of awesome niche job boards.
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+
+## Quantum Computing
+
+* [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
 
 ### Aggregator
 
