@@ -64,6 +64,7 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 * [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+* [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
 
 ## DevOps
 
