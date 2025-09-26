@@ -7,7 +7,6 @@ A curated list of awesome niche job boards.
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
-- [Database](#database)
 - [Design](#design)
 - [DevOps](#devops)
 - [eCommerce](#ecommerce)
@@ -15,8 +14,10 @@ A curated list of awesome niche job boards.
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
+- [Open Source](#opensource)
 - [Programming](#programming)
 - [Remote](#remote)
+- [Quantum Computing)(#quantum-computing)
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
@@ -25,7 +26,6 @@ A curated list of awesome niche job boards.
 
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
-* [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 * [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
@@ -45,19 +45,14 @@ A curated list of awesome niche job boards.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 * [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
-* [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
+* [Remote Web3 Jobs](https://www.remote3.co/) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 * [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 * [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 
 ## Cloud
 
-* [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 * [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence 
-
-## Database
-
-* [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
 ## Design
 
@@ -70,6 +65,7 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 * [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+* [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
 
 ## DevOps
 
@@ -90,7 +86,10 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
-* [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
+
+## Open Source
+
+* [GitJobs](https://gitjobs.dev ) - Discover Open Source job opportunities
 
 ## Programming
 
@@ -98,7 +97,7 @@ A curated list of awesome niche job boards.
 
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
-* [Mecruit Job Board](https://www.mecruit.com/)
+* [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
 
 ### Clojure
 
@@ -128,6 +127,7 @@ A curated list of awesome niche job boards.
 ### Mobile
 
 * [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
+* [Mobile Career](https://mobile.career/) - Job board for mobile developers. iOS. Android. Flutter. React Native...
 
 ### Perl
 
@@ -144,7 +144,6 @@ A curated list of awesome niche job boards.
 
 * [PyJobs](https://www.pyjobs.com)
 * [Python Job Board](https://www.python.org/jobs/)
-* [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
 
 ### Ruby
@@ -159,9 +158,6 @@ A curated list of awesome niche job boards.
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
 
-### TypeScript
-* [TypeScript Jobs](https://typescriptjobs.dev)
-
 ## Remote
 
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
@@ -175,6 +171,9 @@ A curated list of awesome niche job boards.
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 
+## Quantum Computing
+
+* [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
 
 ### Aggregator
 
@@ -196,9 +195,8 @@ A curated list of awesome niche job boards.
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
-
-### Africa
-* [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+* [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
+* [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
 
 ### Canada
 
