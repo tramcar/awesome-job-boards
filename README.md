@@ -183,6 +183,8 @@ A curated list of awesome niche job boards.
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
 * [OkJob](https://okjob.io/) - 4 day week job board
+* [StarJobs](https://starjobs.dev/) - An aggregator for developers that recommends matching jobs based on Github and LinkedIn Profile
+
 
 ## Startups
 
