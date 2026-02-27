@@ -169,7 +169,8 @@ A curated list of awesome niche job boards.
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
-* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
+* [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
 
 ## Quantum Computing
 
