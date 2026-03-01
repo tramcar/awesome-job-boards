@@ -19,6 +19,7 @@ A curated list of awesome niche job boards.
 - [Remote](#remote)
 - [Quantum Computing](#quantum-computing)
 - [Tech](#tech)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 - [Writing](#writing)
 - [Various](#various)
 
