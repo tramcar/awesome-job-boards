@@ -197,6 +197,7 @@ A curated list of awesome niche job boards.
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 * [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
 * [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
+* [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (only EM/Staff+ positions, VP, Director, CTO)
 
 ### Canada
 
