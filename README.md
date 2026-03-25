@@ -29,6 +29,7 @@ A curated list of awesome niche job boards.
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 * [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+* [AI Trainer Jobs](https://aitrainerjobs.cv) | Discover remote AI trainer jobs.
 
 ## Big Data
 
@@ -65,7 +66,7 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 * [UI/UX Jobs Board](https://uiuxjobsboard.com/)
-* [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
+
 
 ## DevOps
 
