@@ -21,6 +21,7 @@ A curated list of awesome niche job boards.
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
+- [Resume & Career Tools](#resume--career-tools)
 
 ## Artificial Intelligence (AI)
 
@@ -226,3 +227,7 @@ A curated list of awesome niche job boards.
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
+
+## Resume & Career Tools
+
+* [Ajusta](https://ajusta.ai) - AI resume optimizer that scores resumes against ATS and provides keyword and rewrite suggestions. Chrome extension for LinkedIn and Indeed.
