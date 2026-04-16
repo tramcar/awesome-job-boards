@@ -24,6 +24,7 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
+* [AI Dev Jobs](https://aidevboard.com/) - AI/ML job board with public REST API and MCP server. 5,400+ jobs aggregated from 55+ ATS sources, updated daily.
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
