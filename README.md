@@ -29,6 +29,7 @@ A curated list of awesome niche job boards.
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 * [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+* [AI Dev Jobs](https://aidevboard.com) - Curated board of 5,000+ AI/ML/LLM engineering roles from 55+ ATS sources. Remote, hybrid, onsite filters. Free API and MCP server.
 
 ## Big Data
 
