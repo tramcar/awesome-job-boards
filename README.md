@@ -9,7 +9,6 @@ A curated list of awesome niche job boards.
 - [Blockchain](#blockchain)
 - [Design](#design)
 - [DevOps](#devops)
-- [eCommerce](#ecommerce)
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
@@ -50,14 +49,11 @@ A curated list of awesome niche job boards.
 * [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 * [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
-
-## Cloud
-
-* [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence 
+* [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
 
 ## Design
 
-* [AIGA](https://designjobs.aiga.org/)
+* [AIGA](https://designcareers.aiga.org/)
 * [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
@@ -66,15 +62,10 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 * [UI/UX Jobs Board](https://uiuxjobsboard.com/)
-* [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
 
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
-
-## eCommerce
-
-* [eComPortal](https://www.ecomportal.co/) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available. 
 
 ## Finance
 
@@ -106,14 +97,12 @@ A curated list of awesome niche job boards.
 
 ### Functional
 
-* [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 * [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
 
 * [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
-* [Golang Developer Jobs](https://golangjob.xyz)
 * [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source
 
 ### JavaScript
@@ -162,13 +151,11 @@ A curated list of awesome niche job boards.
 ## Remote
 
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
-* [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
-* [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 
@@ -183,7 +170,7 @@ A curated list of awesome niche job boards.
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
-* [OkJob](https://okjob.io/) - 4 day week job board
+* [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
 
 ## Startups
 
@@ -198,6 +185,7 @@ A curated list of awesome niche job boards.
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 * [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
 * [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
+* [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (only EM/Staff+ positions, VP, Director, CTO)
 
 ### Canada
 
@@ -211,6 +199,7 @@ A curated list of awesome niche job boards.
 * [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+* [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
 
 ### Latin America
 
