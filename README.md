@@ -197,6 +197,7 @@ A curated list of awesome niche job boards.
 * [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 * [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+* [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
 
 ### Latin America
 
