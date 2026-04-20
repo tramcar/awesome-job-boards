@@ -12,7 +12,6 @@ A curated list of awesome niche job boards.
 - [Finance](#finance)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
-- [InfoSec](#infosec)
 - [Open Source](#opensource)
 - [Programming](#programming)
 - [Remote](#remote)
@@ -76,10 +75,6 @@ A curated list of awesome niche job boards.
 
 * [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
 
-## InfoSec
-
-* [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
-
 ## Open Source
 
 * [GitJobs](https://gitjobs.dev ) - Discover Open Source job opportunities
@@ -109,7 +104,6 @@ A curated list of awesome niche job boards.
 ### JavaScript
 
 * [Jobs In JS](https://jobsinjs.com/)
-* [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
@@ -117,7 +111,7 @@ A curated list of awesome niche job boards.
 
 ### Mobile
 
-* [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
+* [React Native Jobs](https://reactnative-jobs.com) — A dedicated job board for React Native developers and companies.
 * [Mobile Career](https://mobile.career/) - Job board for mobile developers. iOS. Android. Flutter. React Native...
 
 ### Perl
@@ -135,7 +129,6 @@ A curated list of awesome niche job boards.
 
 * [PyJobs](https://www.pyjobs.com)
 * [Python Job Board](https://www.python.org/jobs/)
-* [Python Developer Jobs](https://pythonjob.xyz)
 
 ### Ruby
 
