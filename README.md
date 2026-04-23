@@ -86,7 +86,8 @@ A curated list of awesome niche job boards.
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
 * [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
-
+* [Corvi Careers](https://corvi.careers/) - Remote and onsite jobs, millions of postings from career sites indexed and updated hourly.
+  
 ### Clojure
 
 * [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
