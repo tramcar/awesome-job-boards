@@ -144,6 +144,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
@@ -197,6 +198,7 @@ A curated list of awesome niche job boards.
 
 ### Latin America
 
+* [hiring.lat](https://hiring.lat/jobs) - Fully remote jobs for Latin American talent.
 * [Findjobit](https://findjobit.com/jobs)
 
 ### United Kingdom
