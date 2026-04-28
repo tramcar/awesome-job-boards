@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tramcar-awesome-job-boards-badge.png)](https://mseep.ai/app/tramcar-awesome-job-boards)
+
 # Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
