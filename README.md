@@ -211,3 +211,7 @@ A curated list of awesome niche job boards.
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 * [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
+
+## Developer Marketing jobs
+- [Developer Marketing Jobs](https://github.com/Infrasity-Labs/developer-marketing-jobs) - Daily-updated job board for DevRel, Technical Writing, Developer Marketing, and Community roles.
+
