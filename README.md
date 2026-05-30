@@ -29,6 +29,7 @@ A curated list of awesome niche job boards.
 * [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 * [AI Dev Jobs](https://aidevboard.com) - 7,400+ AI/ML jobs from 417 companies with a free REST API and MCP server for AI agents
 * [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+* [SwissAIJob](https://swissaijob.ch/) - Every AI and ML job in Switzerland, across academia and industry. Refreshed every 3 days, no signup.
 
 ## Big Data
 
