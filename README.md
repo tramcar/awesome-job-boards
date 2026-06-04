@@ -183,6 +183,7 @@ A curated list of awesome niche job boards.
 
 ### Canada
 
+* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student internships, co-ops, new-grad, junior, and entry-level roles
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
 
 ### Europe
