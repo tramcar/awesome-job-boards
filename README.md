@@ -108,6 +108,7 @@ A curated list of awesome niche job boards.
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 * [JSJobbs](https://jsjobbs.com/)
+* [OnlyFrontendJobs](https://onlyfrontendjobs.com) - Hand-picked remote frontend jobs (React, Vue, Next.js, Svelte) with transparent salary details.
 
 ### Mobile
 
