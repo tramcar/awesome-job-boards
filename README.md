@@ -209,5 +209,16 @@ A curated list of awesome niche job boards.
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
+* [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
+* [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 * [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
+* [Creative Gig Jobs](https://creativegigjobs.com) - Freelance and gig jobs for designers, illustrators, photographers, and creative professionals
+* [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs — line cooks, sous chefs, pastry, FOH, and catering positions
+* [Event Crew Jobs](https://eventcrewjobs.com) - Production, crew, and staffing jobs for live events, festivals, and conferences
+* [Fitness Trainer Jobs](https://fitnesstrainerjobs.com) - Personal training, group fitness, and wellness coaching positions at gyms and studios
+* [Music and Sound Jobs](https://musicandsoundjobs.com) - Music industry jobs — audio engineers, producers, session musicians, and touring crew
+* [Nightlife Employees](https://nightlifeemployees.com) - Bar, club, and nightlife industry jobs — bartenders, DJs, promoters, and security
+* [Tattoo Studio Jobs](https://tattoostudiojobs.com) - Tattoo artist, piercer, and studio positions at shops and conventions
+* [Wedding Vendor Jobs](https://weddingvendorjobs.com) - Jobs for wedding planners, photographers, florists, and event coordinators
+* [Wilderness Staff Jobs](https://wildernessstaffjobs.com) - Outdoor guide, park ranger, camp counselor, and adventure tourism positions
