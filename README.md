@@ -76,6 +76,7 @@ A curated list of awesome niche job boards.
 
 ## Open Source
 
+* [freehire](https://github.com/strelov1/freehire) - Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many sources
 * [GitJobs](https://gitjobs.dev ) - Discover Open Source job opportunities
 
 ## Programming
