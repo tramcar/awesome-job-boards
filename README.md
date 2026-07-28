@@ -197,7 +197,6 @@ A curated list of awesome niche job boards.
 
 ### Latin America
 
-* [hiring.lat](https://hiring.lat/jobs) - Fully remote jobs for Latin American talent.
 * [Findjobit](https://findjobit.com/jobs)
 
 ### United Kingdom
