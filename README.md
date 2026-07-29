@@ -51,6 +51,7 @@ A curated list of awesome niche job boards.
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 * [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 * [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
+* [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market industry, roles from Polymarket, Kalshi, quant trading firms and more.
 * [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
 
 ## Design
