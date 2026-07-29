@@ -38,6 +38,7 @@ A curated list of awesome niche job boards.
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 * [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
+* [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 
 ## Blockchain
 
@@ -51,6 +52,7 @@ A curated list of awesome niche job boards.
 * [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 * [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
 * [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market industry, roles from Polymarket, Kalshi, quant trading firms and more.
+* [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
 
 ## Design
 
@@ -145,6 +147,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
