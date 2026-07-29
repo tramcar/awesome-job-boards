@@ -170,6 +170,7 @@ A curated list of awesome niche job boards.
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
 * [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
+* [CreatorJobBoard](https://creatorjobboard.com/) — Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
 
 ## Startups
 
