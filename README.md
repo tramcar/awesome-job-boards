@@ -149,6 +149,7 @@ A curated list of awesome niche job boards.
 
 * [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
+* [Meridian](https://meridianremote.com/) - Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
