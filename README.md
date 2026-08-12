@@ -77,6 +77,7 @@ A curated list of awesome niche job boards.
 ## Gaming
 
 * [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
+* [Joba Search](https://t.me/joba_search_bot) - Telegram bot that aggregates game industry jobs from Russian-language channels
 
 ## Open Source
 
