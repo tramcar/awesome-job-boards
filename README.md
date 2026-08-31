@@ -201,6 +201,10 @@ A curated list of awesome niche job boards.
 * [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 * [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
 
+### India
+
+* [InternDoor](https://interndoor.com/) - Engineering internships in India, filtered to a vetted list of real employers and updated every 30 minutes
+
 ### Latin America
 
 * [Findjobit](https://findjobit.com/jobs)
