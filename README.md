@@ -22,6 +22,7 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
+* [GigWatch](https://github.com/earnnova-dev/gigwatch) - Self-hosted AI-powered job monitor. Polls multiple boards, ranks matches with LLM. Free, MIT.
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobster](https://www.aijobster.work/) - Jobs from leading AI companies, across all group.
