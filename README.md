@@ -154,6 +154,7 @@ A curated list of awesome niche job boards.
 * [Werkington](https://www.werkington.com/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+* [SideQuest Board](https://www.sidequestboard.app/) - Freelance gigs aggregated from public communities into one curated feed
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 * [4DayJob](https://www.4dayjob.com/) - 4-day work week and remote job board with 1,000+ listings across 10 categories
