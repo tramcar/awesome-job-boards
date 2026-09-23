@@ -53,6 +53,7 @@ A curated list of awesome niche job boards.
 * [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
 * [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market industry, roles from Polymarket, Kalshi, quant trading firms and more.
 * [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
+* [CryptoJobsHQ](https://cryptojobshq.com) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically
 
 ## Design
 
