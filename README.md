@@ -77,6 +77,7 @@ A curated list of awesome niche job boards.
 ## Gaming
 
 * [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
+* [SpinHire](https://spinhire.io/en/) - iGaming jobs: casino, sportsbook, game studios and affiliates, with salary benchmarks
 
 ## Open Source
 
