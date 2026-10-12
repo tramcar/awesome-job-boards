@@ -170,6 +170,7 @@ A curated list of awesome niche job boards.
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
 * [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
+* [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, with the line that proves each one
 
 ## Startups
 
