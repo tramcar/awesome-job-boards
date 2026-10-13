@@ -177,6 +177,7 @@ A curated list of awesome niche job boards.
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+* [JustBacked](https://justbacked.com/) - Jobs at startups that raised venture funding in the last six months
 
 ## Tech
 
