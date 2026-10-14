@@ -89,6 +89,7 @@ A curated list of awesome niche job boards.
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
 * [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
+* [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own boards (Greenhouse, Lever, Ashby and others), with the date each was posted
 
 ### Clojure
 
