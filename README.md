@@ -16,6 +16,7 @@ A curated list of awesome niche job boards.
 - [Programming](#programming)
 - [Remote](#remote)
 - [Quantum Computing](#quantum-computing)
+- [Sales](#sales)
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
@@ -177,6 +178,10 @@ A curated list of awesome niche job boards.
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+
+## Sales
+
+* [OTE Jobs](https://otejobs.com/) - Tech sales jobs (AE, SDR/BDR, Sales Engineer, sales leadership) with posted base and OTE pay, refreshed every 3 hours from company job boards
 
 ## Tech
 
