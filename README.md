@@ -29,6 +29,7 @@ A curated list of awesome niche job boards.
 * [AI Dev Jobs](https://aidevboard.com) - 7,400+ AI/ML jobs from 417 companies with a free REST API and MCP server for AI agents
 * [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 * [caio.pro](https://caio.pro) - C-level AI leadership jobs (Chief AI Officer, VP of AI, Head of AI/ML, Chief Data Officer), every listing AI-verified and enriched.
+* [Present of AI Jobs](https://presentofai.com/jobs) - 10,000+ live AI jobs aggregated daily, with a free public API, MCP server and XML feed for agents and aggregators.
 
 ## Big Data
 
