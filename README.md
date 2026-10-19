@@ -186,6 +186,8 @@ A curated list of awesome niche job boards.
 * [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
 * [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (only EM/Staff+ positions, VP, Director, CTO)
 
+* [Robotic Jobs](https://roboticjobs.ai/) - Robotics jobs across software, AI, hardware, autonomous vehicles, and automation
+
 ### Canada
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
