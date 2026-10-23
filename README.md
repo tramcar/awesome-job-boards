@@ -157,6 +157,7 @@ A curated list of awesome niche job boards.
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 * [4DayJob](https://www.4dayjob.com/) - 4-day work week and remote job board with 1,000+ listings across 10 categories
+* [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link on every listing
 
 ## Quantum Computing
 
