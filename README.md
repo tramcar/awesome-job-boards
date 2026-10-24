@@ -30,6 +30,8 @@ A curated list of awesome niche job boards.
 * [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 * [caio.pro](https://caio.pro) - C-level AI leadership jobs (Chief AI Officer, VP of AI, Head of AI/ML, Chief Data Officer), every listing AI-verified and enriched.
 
+* [Curated AI Jobs](https://job.careers/) - AI and machine learning careers with role and location browsing and direct employer application links.
+
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
