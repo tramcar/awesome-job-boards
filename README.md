@@ -217,3 +217,4 @@ A curated list of awesome niche job boards.
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 * [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
+* [YubHub](https://yubhub.co/) - Aggregates live jobs daily from employers' own careers pages with salary, skills and hiring data, plus free RSS/JSON/XML feeds and a no-key API
