@@ -158,6 +158,8 @@ A curated list of awesome niche job boards.
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
 * [4DayJob](https://www.4dayjob.com/) - 4-day work week and remote job board with 1,000+ listings across 10 categories
 
+* [Autojob](https://autojob.org/jobs/remote)
+
 ## Quantum Computing
 
 * [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
