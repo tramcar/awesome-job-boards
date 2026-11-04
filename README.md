@@ -204,6 +204,7 @@ A curated list of awesome niche job boards.
 ### Latin America
 
 * [Findjobit](https://findjobit.com/jobs)
+* [RemoteJobs.lat](https://remotejobs.lat/) - Remote jobs for professionals in Latin America, by country and skill
 
 ### United Kingdom
 
