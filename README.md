@@ -89,6 +89,7 @@ A curated list of awesome niche job boards.
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
 * [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
+* [getwork.dev](https://getwork.dev/) - Developer jobs from employers' own career pages, searchable by AI agents over MCP
 
 ### Clojure
 
