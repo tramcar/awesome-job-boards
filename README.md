@@ -19,6 +19,7 @@ A curated list of awesome niche job boards.
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
+* [U Hirable](https://uhirable.github.io/) - Free job search hub with live jobs by country, UK visa sponsor and Canada LMIA employer search, and walk-in interview dates
 
 ## Artificial Intelligence (AI)
 
