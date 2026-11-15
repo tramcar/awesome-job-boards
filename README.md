@@ -89,6 +89,7 @@ A curated list of awesome niche job boards.
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
 * [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
+* [openradar](https://openradar.fun) - Jobs and freelance orders from boards, RSS, Telegram channels and ATS career pages in one feed, with a free API, RSS and MCP
 
 ### Clojure
 
