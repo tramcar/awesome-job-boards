@@ -23,12 +23,12 @@ A curated list of awesome niche job boards.
 ## Artificial Intelligence (AI)
 
 * [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
-* [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
-* [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
+* [AI Jobster](https://www.aijobster.work/) - Jobs from leading AI companies, across all group.
 * [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 * [AI Dev Jobs](https://aidevboard.com) - 7,400+ AI/ML jobs from 417 companies with a free REST API and MCP server for AI agents
 * [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+* [caio.pro](https://caio.pro) - C-level AI leadership jobs (Chief AI Officer, VP of AI, Head of AI/ML, Chief Data Officer), every listing AI-verified and enriched.
 
 ## Big Data
 
@@ -38,6 +38,7 @@ A curated list of awesome niche job boards.
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 * [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
+* [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 
 ## Blockchain
 
@@ -50,6 +51,8 @@ A curated list of awesome niche job boards.
 * [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 * [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 * [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
+* [PredictionJobs](https://predictionjobs.co/) - Job board for the prediction market industry, roles from Polymarket, Kalshi, quant trading firms and more.
+* [ChainJobs](https://chainjobs.io/) - Crypto, web3 and blockchain jobs aggregated daily from companies' official careers pages, with every listing linking to the employer's own application page
 
 ## Design
 
@@ -145,6 +148,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [hiring.lat](https://hiring.lat/jobs) - 100% Remote jobs for LATAM professionals.
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
@@ -153,6 +157,7 @@ A curated list of awesome niche job boards.
 * [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+* [4DayJob](https://www.4dayjob.com/) - 4-day work week and remote job board with 1,000+ listings across 10 categories
 
 ## Quantum Computing
 
@@ -185,6 +190,7 @@ A curated list of awesome niche job boards.
 ### Canada
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
+* [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles
 
 ### Europe
 
