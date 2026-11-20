@@ -217,3 +217,4 @@ A curated list of awesome niche job boards.
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 * [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.
+* [FirstHire](https://getfirsthire.com/) - Fresher, new grad and entry-level jobs in India and the US, shown minutes after they are posted
