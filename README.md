@@ -205,6 +205,10 @@ A curated list of awesome niche job boards.
 
 * [Findjobit](https://findjobit.com/jobs)
 
+### Middle East & North Africa
+
+* [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours
+
 ### United Kingdom
 
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
