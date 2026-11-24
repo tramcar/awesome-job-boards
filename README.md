@@ -73,6 +73,7 @@ A curated list of awesome niche job boards.
 ## Finance
 
 * [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
+* [Quant Challenges](https://quantchallenges.com/jobs) - Direct-employer ATS quantitative trading, research, and developer jobs from 70+ prop trading firms and hedge funds
 
 ## Gaming
 
