@@ -39,6 +39,7 @@ A curated list of awesome niche job boards.
 * [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 * [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 * [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
+* [Dataaxy](https://dataaxy.com/) - Data & AI jobs in North America and Europe, plus public talent profiles
 
 ## Blockchain
 
