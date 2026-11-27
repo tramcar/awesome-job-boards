@@ -190,6 +190,7 @@ A curated list of awesome niche job boards.
 
 * [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
 * [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles
+* [MapleRoles](https://www.mapleroles.ca/) - Jobs from Canadian employers' career pages, including tech roles, checked twice a day
 
 ### Europe
 
