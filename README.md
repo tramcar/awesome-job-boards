@@ -177,6 +177,7 @@ A curated list of awesome niche job boards.
 * [Startup Jobs](https://startup.jobs/)
 * [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 * [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+* [Sara's List](https://thesaraslist.com/) - Jobs at private companies valued $250M to $20B, each valuation with its source
 
 ## Tech
 
